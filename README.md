@@ -1,4 +1,4 @@
-# Kerozeyn_ SNetwork
+# Kerozeyn_SNetwork
 
 🌐 **La Red Social Descentralizada del Futuro**
 
@@ -147,5 +147,5 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más 
 - **Repositorio principal:** Kerozeyn_SNetwork
 - **Email:** admin@kerozeyn.network
 
-¡Únete a la revolución digital con Kerozeyn SNetwork!
+¡Únete a la revolución digital con Kerozeyn Social Network(KSN)!
 ```
