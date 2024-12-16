@@ -1,8 +1,8 @@
-# Kerozeyn_SNetwork
+# Kerozeyn_ SNetwork
 
 🌐 **La Red Social Descentralizada del Futuro**
 
-Kerozeyn SNetwork es una plataforma revolucionaria que combina privacidad, libertad y responsabilidad para redefinir la interacción digital. Inspirada en lo mejor de las plataformas sociales modernas y construida sobre tecnologías descentralizadas, esta red social pone el control total en manos de los usuarios.
+Kerozeyn Social(Safe) Network es una plataforma revolucionaria que combina privacidad, libertad y responsabilidad para redefinir la interacción digital. Inspirada en lo mejor de las plataformas sociales modernas y construida sobre tecnologías descentralizadas, esta red social pone el control total en manos de los usuarios.
 
 ---
 
@@ -27,7 +27,7 @@ Crear un estándar global en redes sociales descentralizadas, con un enfoque ét
 
 ## 🌐 Ética y Moderación
 
-Kerozeyn SNetwork se basa en principios de libertad individual y mínima intervención. A continuación, las políticas éticas clave:
+Kerozeyn Social Network se basa en principios de libertad individual y mínima intervención. A continuación, las políticas éticas clave:
 
 ### 🔒 Moderación Inteligente
 
